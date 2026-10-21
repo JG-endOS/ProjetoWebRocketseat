@@ -1,7 +1,11 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
+<<<<<<< HEAD
 Projeto fantástico, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+=======
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+>>>>>>> 451dbde (test)
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -49,4 +53,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+<<<<<<< HEAD
 Feito com ♥ by JG-endOS :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+=======
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+>>>>>>> 451dbde (test)
