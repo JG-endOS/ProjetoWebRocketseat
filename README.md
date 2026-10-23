@@ -47,6 +47,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by JG-endOS :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by joao-g :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
 
 
