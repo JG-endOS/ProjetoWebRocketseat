@@ -1,13 +1,13 @@
 <h1 align="center"> DevLinks </h1>
 
 
-<p align="center">Projeto fantástico, promovido pela Rocketseat para ensino de tecnologias WEB.</p>
+<p align="center">Fantastic project promoted by Rocketseat for teaching WEB basics</p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-license">License</a>
 </p>
 
 <p align="center">
@@ -16,33 +16,32 @@
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML & CSS
 - JavaScript
-- Git e Github
+- Git & GitHub
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Devlinks is a a page to show your main links:
 
-- [Acesse o projeto finalizado, online](https://joao-g.github.io/devlinks/)
+- [Access the final project](https://joao-g.github.io/devlinks/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Watch classes](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can visualize the layout by this [link.](https://www.figma.com/community/file/1187422022288947321) A [Figma](https://figma.com) account is necessary.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project has a MIT license.
 
 ---
 
-Feito com ♥ by joao-g :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by joao-g :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
 
 
