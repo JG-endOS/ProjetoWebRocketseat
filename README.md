@@ -34,14 +34,15 @@ Devlinks is a a page to show your main links:
 
 ## 🔖 Layout
 
-You can visualize the layout by this [link.](https://www.figma.com/community/file/1187422022288947321) A [Figma](https://figma.com) account is necessary.
+You can visualize the layout with this [link](https://www.figma.com/community/file/1187422022288947321)<br>
+A [Figma](https://figma.com) account is necessary
 
 ## :memo: License
 
-This project has a MIT license.
+This project has a MIT license
 
 ---
 
-Made with ♥ by joao-g :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by joao-g :wave: [join the community!](https://discord.gg/rocketseat)
 
 
