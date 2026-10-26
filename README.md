@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/maykbrito/devlinks/blob/main/.github/preview.jpg?raw=true)">
+  <img alt="License" src="https://github.com/joao-g/devlinks/blob/main/assets/2026-10-26-184000_hyprshot.png">
 </p>
 
 <br>
