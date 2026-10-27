@@ -28,14 +28,13 @@
 
 Devlinks is a a page to show your main links:
 
-- [Access the final project](https://joao-g.github.io/devlinks/)
+- [Access the final project online](https://joao-g.github.io/devlinks/)
 
 - [Watch classes](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
-You can visualize the layout with this [link](https://www.figma.com/community/file/1187422022288947321)<br>
-A [Figma](https://figma.com) account is necessary
+You can visualize the layout with this [link](https://www.figma.com/community/file/1187422022288947321). A [Figma](https://figma.com) account is necessary
 
 ## :memo: License
 
