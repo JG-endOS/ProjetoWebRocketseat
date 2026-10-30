@@ -6,8 +6,7 @@
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -36,9 +35,6 @@ Devlinks is a a page to show your main links:
 
 You can visualize the layout with this [link](https://www.figma.com/community/file/1187422022288947321). A [Figma](https://figma.com) account is necessary
 
-## :memo: License
-
-This project has a MIT license
 
 ---
 
